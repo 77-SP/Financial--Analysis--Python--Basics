@@ -1,53 +1,48 @@
-# 📊 Finance Python Basics
+# 📊 Financial Analysis using Python
 
-This repository contains my initial projects where I am applying Python to financial analysis.
-
-## 🚀 Project: Stock Return Calculator
-
-This project calculates:
-
-* Profit/Loss
-* Return Percentage
-
-using basic Python concepts such as variables, arithmetic operations, and conditional statements.
-
-## 🧠 Concepts Used
-
-* Python Basics (Variables, Data Types)
-* Arithmetic Operations
-* Conditional Statements (if-else)
-
-## 📈 Sample Code
-
-```python
-buy_price = 100
-sell_price = 120
-
-profit = sell_price - buy_price
-return_percent = (profit / buy_price) * 100
-
-print("Profit:", profit)
-print("Return (%):", return_percent)
-
-if sell_price > buy_price:
-    print("Profit")
-else:
-    print("Loss")
-```
-
-## 🎯 Learning Outcome
-
-* Understood how to use Python for basic financial calculations
-* Learned how to structure simple financial logic in code
-* Started applying programming to finance concepts
-
-## 🔜 Next Steps
-
-* Work with real stock data
-* Perform data analysis using pandas
-* Build more financial analysis projects
+## 📌 Objective
+This project focuses on analyzing financial data using Python to derive meaningful insights and understand basic financial trends.
 
 ---
 
-👨‍💻 Created by Samya Patel | Aspiring Financial Analyst
+## 🛠️ Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+## 📂 Project Overview
+In this project, I worked with financial data to:
+- Clean and process datasets
+- Perform basic analysis
+- Visualize trends using graphs
+
+---
+
+## 📈 Key Insights
+- Identified trends in financial data
+- Understood basic data patterns
+- Learned how to visualize financial information
+
+---
+
+## 🎯 What I Learned
+- Data analysis using Python
+- Working with financial datasets
+- Basic visualization techniques
+
+---
+
+## 📁 Files Included
+- Jupyter Notebook (.ipynb)
+- Dataset (if any)
+
+---
+
+## 🚀 Future Improvements
+- Add advanced financial ratios
+- Perform stock market analysis
+- Build interactive dashboards
 
