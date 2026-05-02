@@ -49,4 +49,4 @@ In this project, I worked with financial data to:
 - Perform stock market analysis
 - Build interactive dashboards
 
-
+https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise1.ipynb
