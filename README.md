@@ -27,6 +27,8 @@ In this project, I worked with financial data to:
 - Understood basic data patterns
 - Learned how to visualize financial information
 
+- Exercise1.ipynb
+
 ---
 
 ## 🎯 What I Learned
