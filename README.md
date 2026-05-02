@@ -1,4 +1,7 @@
 # 📊 Financial Analysis using Python
+## Exercises
+
+- [Exercise 1](https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/exercise_1.ipynb)
 
 ## 📌 Objective
 This project focuses on analyzing financial data using Python to derive meaningful insights and understand basic financial trends.
