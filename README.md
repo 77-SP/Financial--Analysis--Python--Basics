@@ -71,9 +71,8 @@ Extends the analysis by including the number of shares to calculate the actual p
 
 ## 📁 Files Included
 
-https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise1.ipynb
-Exercise1.ipynb
-* exercise2_with_quantity.py
+Exercise 1 : https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise1.ipynb
+Exercise 2 :
 
 ---
 
