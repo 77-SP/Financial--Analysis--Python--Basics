@@ -1,52 +1,90 @@
-# 📊 Financial Analysis using Python
+# Investment Analysis using Python
 
+## 📖 Project Overview
 
-## 📌 Objective
-This project focuses on analyzing financial data using Python to derive meaningful insights and understand basic financial trends.
-
----
-
-## 🛠️ Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+This repository contains beginner-level Python projects focused on stock investment analysis.
+It demonstrates the progression from basic return calculation to evaluating real monetary outcomes.
 
 ---
 
-## 📂 Project Overview
-In this project, I worked with financial data to:
-- Clean and process datasets
-- Perform basic analysis
-- Visualize trends using graphs
+## 🎯 Objectives
+
+* Understand how to calculate stock returns
+* Analyze profit and loss in investments
+* Apply financial concepts using Python
 
 ---
 
-## 📈 Key Insights
-- Identified trends in financial data
-- Understood basic data patterns
-- Learned how to visualize financial information
+## 📌 Exercise 1: Single Stock Return
 
-- Exercise1.ipynb
+### Description
+
+Calculates the percentage return of a stock and determines whether the investment results in a profit or loss.
+
+### Input
+
+* Buying price
+* Selling price
+
+### Output
+
+* Return (%)
+* Profit or Loss
 
 ---
 
-## 🎯 What I Learned
-- Data analysis using Python
-- Working with financial datasets
-- Basic visualization techniques
+## 📌 Exercise 2: Investment with Quantity
+
+### Description
+
+Extends the analysis by including the number of shares to calculate the actual profit or loss in monetary terms.
+
+### Input
+
+* Buying price
+* Selling price
+* Quantity
+
+### Output
+
+* Return (%)
+* Profit or Loss (₹)
+
+---
+
+## 🧠 Key Insights
+
+* Return (%) shows **investment efficiency**
+* Profit/Loss (₹) shows **actual financial outcome**
+* Both metrics are important for investment decisions
+
+---
+
+## 🛠️ Tools & Techniques
+
+* Python (Basic)
+* User Input Handling
+* Arithmetic Calculations
+* Conditional Statements
 
 ---
 
 ## 📁 Files Included
-- Jupyter Notebook (.ipynb)
-- Dataset (if any)
+
+* exercise1_single_stock.py
+* exercise2_with_quantity.py
 
 ---
 
 ## 🚀 Future Improvements
-- Add advanced financial ratios
-- Perform stock market analysis
-- Build interactive dashboards
 
-https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise1.ipynb
+* Extend to multiple stocks (portfolio analysis)
+* Add data visualization
+* Use libraries like pandas for advanced analysis
+
+---
+
+## 👤 Author
+
+Samya Patel
+
