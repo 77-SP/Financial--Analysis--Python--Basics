@@ -71,7 +71,7 @@ Extends the analysis by including the number of shares to calculate the actual p
 
 ## 📁 Files Included
 
-* exercise1_single_stock.py
+Exercise1.ipynb
 * exercise2_with_quantity.py
 
 ---
