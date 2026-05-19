@@ -111,7 +111,7 @@ Exercise 1 :https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/ma
 
 Exercise 2 :https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise2.ipynb
 
-Exercise 3 : :contentReference[oaicite:2]{index=2}
+Exercise 3 :https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise3.ipynb
 
 ---
 
