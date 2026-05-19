@@ -107,7 +107,7 @@ Total investment value remains unchanged.
 
 ## 📁 Files Included
 
-Exercise 1 : :contentReference[oaicite:0]{index=0}
+Exercise 1 :https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise1.ipynb
 
 Exercise 2 : :contentReference[oaicite:1]{index=1}
 
