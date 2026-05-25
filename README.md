@@ -163,7 +163,7 @@ Helps in understanding how financial ratios are used to evaluate a company’s f
 
 # 📁 Files Included
 
-* `Exercise1.ipynb` →
+* `Exercise1.ipynb` → https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise1%20%3AProfit%20%26%20Return%20Calculator.ipynb
 * `Exercise2.ipynb` → Investment Analysis with Quantity
 * `Exercise3.ipynb` → Stock Split Analyzer
 * `Exercise4.ipynb` → Financial Ratio Analyzer
