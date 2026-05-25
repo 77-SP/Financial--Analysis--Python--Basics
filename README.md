@@ -164,7 +164,7 @@ Helps in understanding how financial ratios are used to evaluate a company’s f
 # 📁 Files Included
 
 # 📁 Files Included
-- [Exercise1.ipynb](https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise1.ipynb) → Single Stock Return Analysis
+- [Exercise1.ipynb] https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise1%20%3AProfit%20%26%20Return%20Calculator.ipynb → Single Stock Return Analysis
 
 - [Exercise2.ipynb](https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise2.ipynb) → Investment Analysis with Quantity
 
