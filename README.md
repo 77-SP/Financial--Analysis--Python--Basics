@@ -110,32 +110,34 @@ The total investment value remains unchanged.
 
 ---
 
-# 📌 Exercise 4: Financial Ratio Analyzer
+# 📌 Exercise 4: Apple Financial Ratio Analyzer
 
 ## Description
 
-Calculates and compares important financial ratios used in company analysis and financial statement evaluation.
+Analyzes key financial ratios of Apple Inc. using Python to better understand the company’s profitability, valuation, and shareholder performance.
 
 ## Ratios Included
 
+* Price-to-Earnings (P/E) Ratio
+* Return on Equity (ROE)
 * Profit Margin
-* Current Ratio
-* Debt-to-Equity Ratio
-* Asset Turnover Ratio
 
 ## Concepts Covered
 
+* Valuation Analysis
 * Profitability Analysis
-* Liquidity Analysis
-* Leverage Analysis
-* Efficiency Analysis
+* Shareholder Performance Analysis
+* Financial Statement Analysis
+
+## Purpose
+
+Helps in understanding how financial ratios are used to evaluate a company’s financial performance and market valuation through practical Python-based analysis.
 
 ## Output
 
 * Financial Ratio Values
-* Basic Company Performance Insights
+* Basic Financial Performance Insights for Apple Inc.
 
----
 
 # 🧠 Key Learnings
 
