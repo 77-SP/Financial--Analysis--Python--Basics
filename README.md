@@ -163,7 +163,7 @@ Helps in understanding how financial ratios are used to evaluate a company’s f
 
 # 📁 Files Included
 
-* `Exercise1.ipynb` → Single Stock Return Analysis
+* `Exercise1.ipynb` →Exercise1 :Profit & Return Calculator.ipynb
 * `Exercise2.ipynb` → Investment Analysis with Quantity
 * `Exercise3.ipynb` → Stock Split Analyzer
 * `Exercise4.ipynb` → Financial Ratio Analyzer
