@@ -166,7 +166,7 @@ Helps in understanding how financial ratios are used to evaluate a company’s f
 
 - [Exercise2.ipynb] https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise2%20%3AReturn%20on%20Invest.%20with%20Quantity.ipynb → Investment Analysis with Quantity
 
-- [Exercise3.ipynb](https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise3.ipynb) → Stock Split Analyzer
+- [Exercise3.ipynb] https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise3%20%3A%20Stock%20Split%20Analyzer.ipynb → Stock Split Analyzer
 
 - [Exercise4.ipynb](https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise4.ipynb) → Apple Financial Ratio Analyzer
 
