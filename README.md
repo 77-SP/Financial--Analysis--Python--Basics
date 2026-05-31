@@ -21,8 +21,6 @@ The repository also includes a project that combines Microsoft Excel and Python 
 ## Projects
 
 ### 1. Profit & Return Calculator
-**File:** `profit_return_calculator.ipynb`
-**Notebook:** [Excercise1 :Profit & Return Calculator.ipynb](profit_return_calculator.ipynb)
 Calculates investment profit and percentage return based on purchase and selling prices.
 
 **Concepts Covered**
@@ -33,8 +31,6 @@ Calculates investment profit and percentage return based on purchase and selling
 ---
 
 ### 2. ROI Calculator
-**File:** `roi_calculator.ipynb`
-
 Calculates Return on Investment (ROI) and evaluates investment performance.
 
 **Concepts Covered**
@@ -71,8 +67,6 @@ Calculates and analyzes key financial ratios used in company evaluation.
 
 ### 5. Excel to Python Financial Analysis
 **Files:**
-- `excel_to_python_financial_analysis.ipynb`
-- `company_data.xlsx`
 
 A project that combines Microsoft Excel and Python to perform financial analysis and visualization.
 
