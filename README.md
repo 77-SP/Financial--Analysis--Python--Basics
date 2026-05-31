@@ -107,6 +107,9 @@ https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise%
 
 Excel to Python Financial Analysis :
 https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Excel_to_Python_Finanacial_Analysis%20(3).ipynb
+https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Company_Data%20(1).xlsx
+
+---
 
 ## Future Improvements
 
