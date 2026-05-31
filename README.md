@@ -94,7 +94,7 @@ A project that combines Microsoft Excel and Python to perform financial analysis
 
 ## Files Included
 Exercise 1 :Profit & Return Calculator :
-Exercise1 :Profit & Return Calculator.ipynb
+
 
 Exercise 2 :Return on Investment with Quantity :
 https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise2%20%3AReturn%20on%20Invest.%20with%20Quantity.ipynb
