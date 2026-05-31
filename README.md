@@ -41,8 +41,6 @@ Calculates Return on Investment (ROI) and evaluates investment performance.
 ---
 
 ### 3. Stock Split Analyzer
-**File:** `stock_split_analyzer.ipynb`
-
 Analyzes the impact of stock splits on share quantity and share price.
 
 **Concepts Covered**
@@ -53,8 +51,6 @@ Analyzes the impact of stock splits on share quantity and share price.
 ---
 
 ### 4. Financial Ratio Analyzer
-**File:** `financial_ratio_analyzer.ipynb`
-
 Calculates and analyzes key financial ratios used in company evaluation.
 
 **Concepts Covered**
@@ -66,8 +62,6 @@ Calculates and analyzes key financial ratios used in company evaluation.
 ---
 
 ### 5. Excel to Python Financial Analysis
-**Files:**
-
 A project that combines Microsoft Excel and Python to perform financial analysis and visualization.
 
 **Features**
