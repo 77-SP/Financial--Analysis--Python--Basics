@@ -103,6 +103,9 @@ Exercise 3 : Stock Split Ananlyzer :
 https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise3%20%3A%20Stock%20Split%20Analyzer.ipynb
 
 Exercise 4 : Financial Ratio Analyzer :
+https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise%204%20%3AFinancial_Ratio_Analyzer.ipynb
+
+Excel to Python Financial Analysis :
 
 
 ## Future Improvements
