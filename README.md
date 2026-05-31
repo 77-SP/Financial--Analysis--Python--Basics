@@ -106,7 +106,7 @@ Exercise 4 : Financial Ratio Analyzer :
 https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Exercise%204%20%3AFinancial_Ratio_Analyzer.ipynb
 
 Excel to Python Financial Analysis :
-
+https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Excel_to_Python_Finanacial_Analysis%20(3).ipynb
 
 ## Future Improvements
 
