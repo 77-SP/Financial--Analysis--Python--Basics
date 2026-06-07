@@ -1,6 +1,6 @@
-## Financial Analysis with Python
+# Financial Analysis with Python
 
- # Overview
+ ## Overview
 
 This repository contains a collection of beginner-friendly finance and investment analysis projects built using Python. These projects focus on applying financial concepts through programming while developing skills in data analysis, visualization, and financial decision-making.
 
@@ -20,7 +20,7 @@ The repository also includes a project that combines Microsoft Excel and Python 
 
  ## Projects
 
- 1. Profit & Return Calculator
+ ### 1. Profit & Return Calculator
 Calculates investment profit and percentage return based on purchase and selling prices.
 
 **Concepts Covered**
@@ -109,7 +109,7 @@ Excel to Python Financial Analysis :
 https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Excel_to_Python_Finanacial_Analysis%20(3).ipynb
 https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Company_Data%20(1).xlsx
 
-## Titan Financial Performance Analyzer :
+###Titan Financial Performance Analyser
 https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Titan_Financial_Performance_Analyzer.ipynb
 ---
 
