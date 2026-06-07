@@ -1,6 +1,6 @@
-Financial Analysis with Python
+## Financial Analysis with Python
 
- Overview
+ # Overview
 
 This repository contains a collection of beginner-friendly finance and investment analysis projects built using Python. These projects focus on applying financial concepts through programming while developing skills in data analysis, visualization, and financial decision-making.
 
@@ -8,7 +8,7 @@ The repository also includes a project that combines Microsoft Excel and Python 
 
 ---
 
- Tools & Libraries Used
+ ## Tools & Libraries Used
 
 - Python
 - Google Colab
@@ -18,7 +18,7 @@ The repository also includes a project that combines Microsoft Excel and Python 
 
 ---
 
- Projects
+ ## Projects
 
  1. Profit & Return Calculator
 Calculates investment profit and percentage return based on purchase and selling prices.
