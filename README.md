@@ -109,6 +109,8 @@ Excel to Python Financial Analysis :
 https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Excel_to_Python_Finanacial_Analysis%20(3).ipynb
 https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Company_Data%20(1).xlsx
 
+Titan Financial Performance Analyzer:
+https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Titan_Financial_Performance_Analyzer.ipynb
 ---
 
 ## Future Improvements
