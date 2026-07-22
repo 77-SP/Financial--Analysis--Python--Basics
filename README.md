@@ -248,6 +248,7 @@ Finance With Samya Episode 44 : (IPL Series):
 https://github.com/77-SP/Financial--Analysis--Python--Basics/blob/main/FWS_EP44_IPL2026_ROI_Final.ipynb
 
 Comparable Companies Analysis : 
+https://github.com/77-SP/Financial--Analysis--Python--Basics/blob/main/Comparable_Companies_Analysis.ipynb
 
 ## Future Improvements
 
