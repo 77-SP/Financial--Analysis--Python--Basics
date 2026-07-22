@@ -197,16 +197,19 @@ Median peer multiples are then applied to the target company's financial metrics
 The projects in this repository represent a progression in both finance and programming skills:
 
 **Financial Calculations**
+
 → Profit & Return Calculator  
 → ROI Calculator  
 → Stock Split Analyzer  
 
 **Financial Analysis**
+
 → Financial Ratio Analyzer  
 → Excel to Python Financial Analysis  
 → Titan Financial Performance Analyzer  
 
 **Valuation & Investment Analysis**
+
 → Comparable Companies Analysis  
 
 The goal is to continue developing practical finance projects that combine financial knowledge with Python, data analysis, and valuation techniques.
