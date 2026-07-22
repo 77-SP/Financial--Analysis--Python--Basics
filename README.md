@@ -244,6 +244,11 @@ https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Company_D
 Titan Financial Performance Analyser :
 https://github.com/77-SP/Financial--Analysis--Phyton--Basics/blob/main/Titan_Financial_Performance_Analyzer.ipynb
 
+Finance With Samya Episode 44 : (IPL Series): 
+
+
+Comparable Companies Analysis : 
+
 ## Future Improvements
 
 - Interactive financial dashboards
